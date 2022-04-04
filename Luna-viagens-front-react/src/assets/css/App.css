@@ -1,0 +1,24 @@
+
+.screen_index {
+    background-image: url("/public/img/plano-fundo5.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.screen_passagens {
+    background-image: url("/public/img/baloon1_bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.screen_pacotes {
+    background-image: url("/public/img/peoples1_bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.screen_contato {
+    background-image: url("/public/img/road1_bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
